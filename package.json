@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "express-validator": "^7.0.1",
+    "react-hook-form": "^7.49.2"
+  }
+}
